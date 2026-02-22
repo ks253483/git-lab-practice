@@ -1,3 +1,5 @@
 This is my lab notes file.
 I am practicing Git commands.
 This file was created using Git Bash.
+
+This line was added in the feature branch.
