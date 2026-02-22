@@ -4,4 +4,4 @@ This file was created using Git Bash.
 
 This line was added in the feature branch.
 
-This line was edited in main branch.
+This line was resolved after a merge conflict.
